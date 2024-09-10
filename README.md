@@ -1,3 +1,5 @@
+My first project in Data Sience :D
+
 Purpose : predict the salary of data related positions 
   based on location, company review and job title.
 
